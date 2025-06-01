@@ -170,6 +170,7 @@ struct TriangleEqual {
 }
 namespace Calcium {
 
+// Devilspawn. Yeah, idk what I was thinking while making this...
 struct CustomFunction {
     std::function<void()> function;
     std::vector<std::any> args;
